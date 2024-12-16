@@ -1,7 +1,5 @@
 {
     "url": "https://assetchain-telegram-app.vercel.app/",
     "name": "FortuneTap",
-    "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png",
-    "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
-    "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
+    "iconUrl": "https://lonewolf2580.github.io/img/profile.jpg"
 }
